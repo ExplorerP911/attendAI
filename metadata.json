@@ -1,0 +1,7 @@
+{
+  "name": "Attend",
+  "description": "AI-powered classroom attendance management system using facial recognition and analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
